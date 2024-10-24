@@ -52,7 +52,7 @@ This repository is also designed for hands-on Git training. Here's how you can u
 2. **Clone the Forked Repository**  
    In your terminal, clone the forked repo to your local machine:
    ```bash
-   git clone https://github.com/Ali-Noghabi/git-workshop.git
+   git clone https://github.com/YOUR-USERNAME/git-workshop.git
    ```
 
 3. **Create a New Branch**  
